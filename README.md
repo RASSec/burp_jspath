@@ -20,3 +20,9 @@ Import this extension of Burp Suite.
 Save to log file when there is more content.
 
 ![show](https://github.com/j1anFen/burp_jspath/blob/master/show.png)
+
+# Reference
+
+regexp code
+
+https://github.com/GerbenJavado/LinkFinder/blob/master/linkfinder.py#L29
