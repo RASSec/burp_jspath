@@ -16,6 +16,7 @@ Get hidden paths under js files and html \<script\> tags in Brup suite proxy
 # Usage
 
 Import this extension of Burp Suite.
-Save to log file view
+
+Save to log file when there is more content.
 
 ![show](https://github.com/j1anFen/burp_jspath/blob/master/show.png)
